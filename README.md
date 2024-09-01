@@ -33,7 +33,7 @@
 ![Hardhat](https://img.shields.io/badge/hardhat-%23F8C74E.svg?style=for-the-badge&logo=ethereum)&nbsp;
 ![Ethereum.js](https://img.shields.io/badge/ethereum.js-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white)&nbsp;
 ![Polygon](https://img.shields.io/badge/polygon-%23618FCC.svg?style=for-the-badge&logo=polygon&logoColor=white)&nbsp;
-
+<hr>
 
 ### 🗃 &nbsp;Databases
 
@@ -42,14 +42,14 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-
+<hr>
 ### 💻 &nbsp;CP Career
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=%23F87F20)&nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)&nbsp;
 ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)&nbsp;
-
-### 💻 &nbsp;Quick Links
+<hr>
+### 🔗 &nbsp;Quick Links
  
   <a href="https://nikhilportfolio-india.vercel.app/#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" alt="Portfolio" class="bounce" />
