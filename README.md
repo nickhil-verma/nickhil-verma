@@ -1,3 +1,5 @@
+### 📝 Bio
+
  - 👋 Hi, I’m @nickhil-verma  
  - 👀 I’m interested in open source contribution  
  - 🌱 I’m currently learning web development  
