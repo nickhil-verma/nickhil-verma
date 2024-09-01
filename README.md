@@ -33,4 +33,10 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/>
 
+## 🐍
+  <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/nickhil-verma/nickhil-verma/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+</p>
 
+<hr/>
