@@ -65,28 +65,7 @@
   </a>&nbsp;
  
 
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  .bounce {
-    animation: bounce 2s infinite;
-  }
-
-  .delay-1 {
-    animation-delay: 0.2s;
-  }
-
-  .delay-2 {
-    animation-delay: 0.4s;
-  }
-
-  .delay-3 {
-    animation-delay: 0.6s;
-  }
-</style>
+ 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/>
 </p>
