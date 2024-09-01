@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web development  
 - 💞️ I’m looking to collaborate on open source projects  
 - 📫 Reach me at vermanick75@gmail.com | I.G- @nickhil_vermaa  
-- 🔗 Here's my portfolio <a href="https://nikhilportfolio-india.vercel.app">link</a>  
+- 🔗 Here's my portfolio <a href="https://nikhilportfolio-india.vercel.app">link</a>
+- 👀 <img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -67,7 +68,7 @@
 
  
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/>
+	
 </p>
 <p align="center">
 <a href="https://github.com/nickhil-verma">
