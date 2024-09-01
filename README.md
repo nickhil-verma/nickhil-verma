@@ -5,6 +5,7 @@
 - 📫 Reach me at vermanick75@gmail.com | I.G- @nickhil_vermaa  
 - 🔗 Here's my portfolio <a href="https://nikhilportfolio-india.vercel.app">link</a>  
 
+
 ### 🛠 &nbsp;Tech Stack
 
 ![React Js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
@@ -25,6 +26,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![SMTP](https://img.shields.io/badge/SMTP-%23D44638.svg?style=for-the-badge)&nbsp;
+![Thirdweb](https://img.shields.io/badge/thirdweb-%23000000.svg?style=for-the-badge&logo=thirdweb&logoColor=white)&nbsp;
+![Hardhat](https://img.shields.io/badge/hardhat-%23F8C74E.svg?style=for-the-badge&logo=ethereum)&nbsp;
+![Ethereum.js](https://img.shields.io/badge/ethereum.js-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white)&nbsp;
+![Polygon](https://img.shields.io/badge/polygon-%23618FCC.svg?style=for-the-badge&logo=polygon&logoColor=white)&nbsp;
+
 
 ### 🗃 &nbsp;Databases
 
