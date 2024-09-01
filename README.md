@@ -1,5 +1,5 @@
 ### 📝 Bio
-<img src="https://i.postimg.cc/kG6nmZGZ/ASK-Banner-Image-Github.png" alt="Hero_Banner">
+
  - 👋 Hi, I’m @nickhil-verma  
  - 👀 I’m interested in open source contribution  
  - 🌱 I’m currently learning web development  
@@ -7,7 +7,9 @@
  - 📫 Reach me at vermanick75@gmail.com | I.G- @nickhil_verma 
  - 🔗 Here's my portfolio <a href="https://nikhilportfolio-india.vercel.app">link</a>
  - 👀 <img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/> 
-
+<br>
+<img src="https://i.postimg.cc/kG6nmZGZ/ASK-Banner-Image-Github.png" alt="Hero_Banner">
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
