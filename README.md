@@ -1,5 +1,5 @@
 ### 📝 Bio
-
+<img src="https://i.postimg.cc/kG6nmZGZ/ASK-Banner-Image-Github.png" alt="Hero_Banner">
  - 👋 Hi, I’m @nickhil-verma  
  - 👀 I’m interested in open source contribution  
  - 🌱 I’m currently learning web development  
