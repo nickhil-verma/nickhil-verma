@@ -7,7 +7,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-<p align="center>
+
 ![React Js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -33,60 +33,21 @@
 ![Hardhat](https://img.shields.io/badge/hardhat-%23F8C74E.svg?style=for-the-badge&logo=ethereum)&nbsp;
 ![Ethereum.js](https://img.shields.io/badge/ethereum.js-%23363636.svg?style=for-the-badge&logo=ethereum&logoColor=white)&nbsp;
 ![Polygon](https://img.shields.io/badge/polygon-%23618FCC.svg?style=for-the-badge&logo=polygon&logoColor=white)&nbsp;
-</p>
+
 
 ### 🗃 &nbsp;Databases
-<p align="center>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-</p>
+
 ### 💻 &nbsp;CP Career
-<p>
+
 ![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=%23F87F20)&nbsp;
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)&nbsp;
 ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)&nbsp;
-</p>
-### 💻 &nbsp;Quick Links
-<p align="center">
-  <a href="https://nikhilportfolio-india.vercel.app/#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" alt="Portfolio" class="bounce" />
-  </a>&nbsp;
-  <a href="mailto:vermanick75@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="bounce delay-1" />
-  </a>&nbsp;
-  <a href="https://www.instagram.com/nickhil_verma" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="bounce delay-2" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/nikhil-verma-Banglore/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="bounce delay-3" />
-  </a>&nbsp;
-</p>
-
-<style>
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-  
-  .bounce {
-    animation: bounce 2s infinite;
-  }
-
-  .delay-1 {
-    animation-delay: 0.2s;
-  }
-
-  .delay-2 {
-    animation-delay: 0.4s;
-  }
-
-  .delay-3 {
-    animation-delay: 0.6s;
-  }
-</style>
 
 
 <p align="center"> 
