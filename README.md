@@ -49,7 +49,44 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)&nbsp;
 ![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)&nbsp;
 
+### 💻 &nbsp;Quick Links
+ 
+  <a href="https://nikhilportfolio-india.vercel.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge" alt="Portfolio" class="bounce" />
+  </a>&nbsp;
+  <a href="mailto:vermanick75@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="bounce delay-1" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/nickhil_verma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="bounce delay-2" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/nikhil-verma-Banglore/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" class="bounce delay-3" />
+  </a>&nbsp;
+ 
 
+<style>
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  .bounce {
+    animation: bounce 2s infinite;
+  }
+
+  .delay-1 {
+    animation-delay: 0.2s;
+  }
+
+  .delay-2 {
+    animation-delay: 0.4s;
+  }
+
+  .delay-3 {
+    animation-delay: 0.6s;
+  }
+</style>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/>
 </p>
