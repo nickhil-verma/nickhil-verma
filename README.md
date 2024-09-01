@@ -33,6 +33,14 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=nickhil-verma&label=Profile%20views&color=0047AB&style=plastic?" alt="nickhil-verma" height=25px, width=160px/>
 
+ </p>
+ <p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nickhil-verma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nickhil-verma&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ## 🐍
   <br>
  <picture>
