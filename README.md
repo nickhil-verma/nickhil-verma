@@ -2,7 +2,7 @@
 
  - 👋 Hi, I’m @nickhil-verma  
  - 👀 Interested in CP
- - 🌱 WEB & BLOCKCHAIN DEVELOPER
+ - 🌱 WEB3 DEVELOPER
  - 💞️ looking to collaborate on open source projects  
  - 📫 Reach me at vermanick75@gmail.com | I.G- @nickhil_verma 
  - 🔗 Here's my portfolio <a href="https://nikhilportfolio-india.vercel.app">link</a>
